@@ -1,0 +1,32 @@
+[
+    {
+        "MovieID": 1,
+        "Title": "The Matrix",
+        "Genre": "Sci-Fi",
+        "StudentID": 1
+    },
+    {
+        "MovieID": 2,
+        "Title": "The Lord of the Rings",
+        "Genre": "Fantasy",
+        "StudentID": 2
+    },
+    {
+        "MovieID": 3,
+        "Title": "Pulp Fiction",
+        "Genre": "Crime",
+        "StudentID": 3
+    },
+    {
+        "MovieID": 4,
+        "Title": "Forrest Gump",
+        "Genre": "Drama",
+        "StudentID": 4
+    },
+    {
+        "MovieID": 5,
+        "Title": "Inception",
+        "Genre": "Sci-Fi",
+        "StudentID": 5
+    }
+]
