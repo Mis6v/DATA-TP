@@ -1,6 +1,6 @@
 # TP N°1 : Pipeline d'Acquisition de Données (KDD)
 
-Ce projet a été réalisé dans le cadre du module Data Mining (L2 MIAGE/DA2I 2025-2026) par le Pr. EL BENANY.
+Ce projet a été réalisé dans le cadre du module Data Mining .
 
 ## Objectif du TP
 L'objectif principal est de construire un pipeline d'acquisition de données capable de collecter et de fusionner des données provenant de sources hétérogènes :
